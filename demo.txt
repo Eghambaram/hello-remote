@@ -1,0 +1,1 @@
+Scroll to the bottom of the edit page and select Commit changes. The default commit message ("Update demo.txt") is sufficient here and there is no need to change it. At this point we have committed an update of demo.txt to the repo. However, we did this on the server, so let's see the state of our local repo.
