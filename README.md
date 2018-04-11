@@ -6,3 +6,5 @@ Over time, different specifications of the Markdown syntax have evolved. For exa
 * **CommonMark** - a standardization effort for the Markdown language
 
 * **GitHub Flavored Markdown** - a derivative of CommonMark used on the GitHub site.
+
+[microsoft.com](https://www.microsoft.com)
